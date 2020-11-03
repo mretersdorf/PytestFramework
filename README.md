@@ -8,4 +8,4 @@ pip install pytest
 ## To Use
 pytest {{options}}  
 -v Verbose  
--m Marks (test searching. Use quotes with and/or to combine multiple searches)
+-m Marks (test searching. Use quotes with and/or/not to combine multiple searches)
