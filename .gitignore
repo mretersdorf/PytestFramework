@@ -1,0 +1,7 @@
+
+*.xml
+.idea/PytestFramework.iml
+__pycache__/test_widget.cpython-38-pytest-6.1.2.pyc
+tests/sportscar/body/__pycache__/test_body.cpython-38-pytest-6.1.2.pyc
+tests/sportscar/engine/__pycache__/test_engine.cpython-38-pytest-6.1.2.pyc
+tests/sportscar/entertainment/__pycache__/test_entertainment.cpython-38-pytest-6.1.2.pyc
